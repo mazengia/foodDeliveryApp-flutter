@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "806347000631",
+    "project_id": "fooddelivery-d6e32",
+    "storage_bucket": "fooddelivery-d6e32.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:806347000631:android:0be86a5caa8e41a7afa8b2",
+        "android_client_info": {
+          "package_name": "com.maze.fooddelivery"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDhwVtb0gxDTOrBfBVC2WnvfLq9tkTS7k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
